@@ -36,9 +36,8 @@ I love collaborating on projects that connect data with real-world impact and am
 
 <br>
 
-[![GitHub Streak](http://streak-stats.demolab.com/?user=db030dbb&theme=buefy&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=db030dbb&theme=buefy&hide_border=true&random=12345)](https://git.io/streak-stats)
 
-[![GitHub Streak](http://streak-stats.demolab.com/?user=username&theme=buefy&hide_border=true&cache_buster=1)](https://git.io/streak-stats)
 <br>
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=db030dbb&show_icons=true&theme=buefy&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
